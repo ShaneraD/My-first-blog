@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+myvenv/
+venv/
+.env
+.venv
+
+# Django
+db.sqlite3
+media/
+staticfiles/
+
+# IDEs
+.vscode/
+.idea/
+
+# Byte-compiled / optimized / DLL files
+*.egg-info/
+*.egg
+*.dist-info/
+
+# Logs
+*.log
+
+# Coverage
+.coverage
+htmlcov/
+
+# PyInstaller
+dist/
+build/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Others
+*.sqlite3
